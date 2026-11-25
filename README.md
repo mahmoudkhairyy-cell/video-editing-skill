@@ -6,7 +6,7 @@ A free Claude Skill that turns Claude into a practical video editing coach for T
 
 ## Install (2 minutes, free)
 
-1. Download the zip: [video-editing.zip](https://github.com/mahmoudkhairyy-cell/video-editing-skill/raw/main/video-editing.zip) (the zip is also in this repo's root).
+1. Download the zip: [video-editing.zip](https://github.com/mahmoudkhairyy-cell/video-editing-skill/releases/download/v1.0/video-editing.zip) (from the v1.0 release).
 2. On claude.ai (web or desktop): go to **Settings → Capabilities** and turn on **Code execution and file creation**.
 3. Go to **Customize → Skills**, click **+** → **Create skill** → **Upload a skill**, and upload the zip.
 4. Toggle it on. Done. Ask Claude something like "help me cut a 30-second TikTok from my footage" and the skill kicks in automatically.
@@ -34,7 +34,7 @@ No zip upload? You can also paste `video-editing/SKILL.md` into any chat as plai
 
 ### التثبيت
 
-1. نزّل ملف الزيب من هنا: [video-editing.zip](https://github.com/mahmoudkhairyy-cell/video-editing-skill/raw/main/video-editing.zip)
+1. نزّل ملف الزيب من هنا: [video-editing.zip](https://github.com/mahmoudkhairyy-cell/video-editing-skill/releases/download/v1.0/video-editing.zip)
 2. افتح claude.ai → Settings → Capabilities → فعّل Code execution and file creation.
 3. روح Customize → Skills → اضغط + → Upload a skill → ارفع ملف الزيب.
 4. فعّل السكيل، وبعدين اسأل كلود أي سؤال عن المونتاج وهو هيستخدمه لوحده.
